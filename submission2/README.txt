@@ -1,8 +1,8 @@
 Link to unlisted youtube video:
-NA
+https://www.youtube.com/watch?v=AEXXlxykE4o&list=PLyb6KVIeZbRvqKtc6Fo7mxG9a3NEoFV2C&index=2
 
 Public link to the slide (Anyone on the internet can view without login):
-NA
+https://drive.google.com/file/d/1XubgxF2C8068mUf2eH_9ZmUibcVQsSGy/view?usp=sharing
 
 Paper title:
 Automatic Keyword and Sentence-Based Text Summarization for Software Bug Reports

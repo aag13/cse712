@@ -3,9 +3,9 @@ https://www.youtube.com/watch?v=5SNBeV9nysQ&list=PLyb6KVIeZbRvqKtc6Fo7mxG9a3NEoF
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-
+https://github.com/aag13/cse712/blob/main/submission3/CSE712%20chapter15%20Group%209.pdf
 Native/original format: 
-
+https://github.com/aag13/cse712/blob/main/submission3/CSE712%20chapter15%20Group%209.drawio
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing

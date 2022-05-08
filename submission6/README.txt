@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=Z_GGVn6LBRI
 https://www.youtube.com/watch?v=xvqsFTUsOmc
 
 Did project:
-1. Packaged and deployed an NLP text generation model using AWS Lambda container image and resolved the lambda cold start issue by periodically accessing the lambda using API gateway to reduce startup time.
+Packaged and deployed an NLP text generation model using AWS Lambda container image and resolved the lambda cold start issue by periodically accessing the lambda using API gateway to reduce startup time.
 
 Compiled two comprehensive datasets containing all the works of Rabindranath Tagore and Kazi Nazrul Islam
 https://www.kaggle.com/datasets/aagalib/complete-works-of-rabindranath-tagore
